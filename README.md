@@ -52,21 +52,7 @@ pip install pycryptodome bas-http psutil
 python basbot_main.py
 ```
 
----
-
-## 🧩 Modules Required
-
-| Module | Purpose | Required |
-|--------|---------|:--------:|
-| `pycryptodome` | AES / ChaCha20 / Salsa20 encryption | ✅ |
-| `bas-http` | HTTP session handling | ✅ |
-| `psutil` | Process & memory detection | ⚪ Optional |
-
----
-
 ## 🛡️ Features
-
-- **Free to use** — Up to 100 recognitions every 24 hours
 - **Super stealth** — Undetectable tokens, bypass human verifications on most sites
 - **Fast results** — Guaranteed fastest recognitions 24/7 via AI network
 - **Fair pricing** — Starting at 0.5 tokens per recognition (1 USD = 10,000 Tokens)
@@ -102,23 +88,9 @@ python basbot_main.py
 2. Login → Dashboard → Copy your API Key
 3. Run the bot and enter your key when prompted
 
----
-
-## 📂 Project Structure
-
-```
-basbot/
-├── basbot.py              # Security loader (anti-tamper)
-├── basbot_main.py         # Main bot manager
-├── BASkey.txt             # Saved API key (auto-created)
-└── *_bot.py               # Bot scripts (auto-synced from GitHub)
-```
-
----
-
 ## 🖥️ Requirements
 
-- **OS:** Windows 10/11 (primary)
+- **OS:** Windows 10/11 / Termux / Linux (primary)
 - **Python:** 3.8+
 - **Internet:** Required for API calls
 
