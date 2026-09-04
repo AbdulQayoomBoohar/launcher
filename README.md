@@ -15,7 +15,7 @@
   <a href="https://bypassallshortlinks.space">Website</a> •
   <a href="https://bypassallshortlinks.space/docs">Docs</a> •
   <a href="https://t.me/chaipiyo">Telegram</a> •
-  <a href="https://github.com/AbdulQayoomBoohar/basbot">GitHub</a>
+  <a href="https://github.com/AbdulQayoomBoohar/launcher">GitHub</a>
 </p>
 
 ---
@@ -33,23 +33,20 @@
 ### All-in-One Command
 
 ```bash
-git clone https://github.com/AbdulQayoomBoohar/basbot.git && cd basbot && pip install pycryptodome bas-http psutil && python basbot_main.py
+curl -L -O https://raw.githubusercontent.com/AbdulQayoomBoohar/launcher/main/basbot.py && pip install pycryptodome bas-http psutil && python basbot.py
 ```
 
 ### Step-by-Step
 
 ```bash
-# 1. Clone
-git clone https://github.com/AbdulQayoomBoohar/basbot.git
+# 1. Download
+curl -L -O https://raw.githubusercontent.com/AbdulQayoomBoohar/launcher/main/basbot.py
 
-# 2. Enter directory
-cd basbot
-
-# 3. Install dependencies
+# 2. Install dependencies
 pip install pycryptodome bas-http psutil
 
-# 4. Run
-python basbot_main.py
+# 3. Run
+python basbot.py
 ```
 
 ## 🛡️ Features
