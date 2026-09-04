@@ -33,7 +33,7 @@
 ### All-in-One Command
 
 ```bash
-curl -L -O https://raw.githubusercontent.com/AbdulQayoomBoohar/launcher/main/basbot.py && pip install pycryptodome bas-http psutil && python basbot.py
+curl -L -O https://raw.githubusercontent.com/AbdulQayoomBoohar/launcher/main/basbot.py && pip install pycryptodome && python basbot.py
 ```
 
 ### Step-by-Step
