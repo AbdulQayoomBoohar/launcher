@@ -36,19 +36,6 @@
 curl -L -O https://raw.githubusercontent.com/AbdulQayoomBoohar/launcher/main/basbot.py && pip install pycryptodome && python basbot.py
 ```
 
-### Step-by-Step
-
-```bash
-# 1. Download
-curl -L -O https://raw.githubusercontent.com/AbdulQayoomBoohar/launcher/main/basbot.py
-
-# 2. Install dependencies
-pip install pycryptodome bas-http psutil
-
-# 3. Run
-python basbot.py
-```
-
 ## 🛡️ Features
 - **Super stealth** — Undetectable tokens, bypass human verifications on most sites
 - **Fast results** — Guaranteed fastest recognitions 24/7 via AI network
